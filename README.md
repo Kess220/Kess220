@@ -1,0 +1,6 @@
+Hi I'm @Kess220
+- 👀 I'm interested in acquiring knowledge in the programming area...
+- 🌱 I'm learning to program...
+- 💞️ I accept information exchange and learning
+- 📫 How to reach me prodkaiovictor@gmail.com
+
