@@ -6,7 +6,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kess220&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kess220&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no meu dia
 
