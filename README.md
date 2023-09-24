@@ -18,7 +18,10 @@
 <img aling="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img aling="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img aling="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img aling="center" src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img aling="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br/>
+
 
 Apaixonado pela tecnologia e pelo que ela pode fazer para mudar vidas!
 
