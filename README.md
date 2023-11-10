@@ -13,7 +13,7 @@
   </div>
 
   <div style="margin-left: 20px;">
-    <img src="gifs/eukkk.gif" alt="Alt Text" height="250" width="2000">
+    <img src="gifs/eukkk.gif" alt="Alt Text" height="250" width="1500">
   </div>
 </div>
 
