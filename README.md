@@ -1,14 +1,26 @@
-### Olá, Eu sou o Kaio Victor!  ✋
+### Olá, Eu sou o Kaio Victor! ✋
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-victor-benicio-da-silva-61bb4a248/)
 
+## Um pouco sobre mim
 
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>Sou um desenvolvedor fullstack, amante da música, tocando alguns instrumentos, como: Trombone de vara, violão, harmônica, flauta doce e teclado. 🎶</li>
+      <li>Gosto de dizer que uma das minhas maiores experiências foi o FUNDO DO POÇO, um momento difícil aos 17 anos, sofrendo uma lesão medular que transformou completamente minha trajetória. Nesse período, precisei me reinventar, aprender novamente o básico de viver e me readaptar como pessoa. Meu sonho inicial de ser Policial Federal teve que ser deixado para trás, mas encontrei novos caminhos. Hoje, estou dedicado ao que amo, a tecnologia, que se tornou uma luz nos dias sombrios deitado em uma cama sem saber o que seria da minha vida profissional. Estou constantemente buscando aprender mais e melhorar, enfrentando desafios e aproveitando as oportunidades que a vida me apresenta, pois vencer desafios se tornou rotina em minha vida e quero levar isso para minha vida profissional.👨‍🦽💨🔱</li>
+    </ul>
+  </div>
 
-
+  <div style="margin-left: 20px;">
+    <img src="gifs/eukkk.gif" alt="Alt Text" height="250" width="2500">
+  </div>
+</div>
 
 
 ## Tecnologias que eu uso no meu dia
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <div style="display: inline_block"><br/>
 <img aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,12 +50,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 
-Apaixonado pela tecnologia e pelo que ela pode fazer para mudar vidas!
-
-## Tento ser melhor do que o ontem!
-
-
-
-
-
-
+## Tento ser melhor do que ontem!
