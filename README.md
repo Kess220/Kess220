@@ -13,10 +13,9 @@
   </div>
 
   <div style="margin-left: 20px;">
-    <img src="gifs/eukkk.gif" alt="Alt Text" height="250" width="2500">
+    <img src="gifs/eukkk.gif" alt="Alt Text" height="250" width="2000">
   </div>
 </div>
-
 
 ## Tecnologias que eu uso no meu dia
 
